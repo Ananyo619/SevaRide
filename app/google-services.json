@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144989941623",
+    "project_id": "sevaride-f0f2c",
+    "storage_bucket": "sevaride-f0f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144989941623:android:1d6f3e42d963a8799d3b72",
+        "android_client_info": {
+          "package_name": "com.example.sevaride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7R4AU3QMxlCg0rVSkJu8nS2GYva26AJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
